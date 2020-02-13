@@ -30,7 +30,7 @@ def code_challenge2(array):
             return e+1
            
 list1 = [10, 15, 3, 2]
-list2 = [7, 6,10, -10, 10, 8, 50, -2,0, 1,2,3,4,5,5]
+list2 = [7, 6, 10, -10, 10, 8, 50, -2, 0, 1, 2, 3, 4, 5, 5]
 k = 17
 print(code_challenge(list1, k))
 print('The first missing positive integer is: ', code_challenge2(list2))
